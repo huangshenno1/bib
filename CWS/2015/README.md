@@ -4,7 +4,9 @@
 ### EMNLP
 - [**Long Short-Term Memory Neural Networks for Chinese Word Segmentation**](http://www.aclweb.org/anthology/D/D15/D15-1141.pdf) [[bib]](http://www.aclweb.org/anthology/D/D15/D15-1141.bib)  
   *Xinchi Chen; Xipeng Qiu; Chenxi Zhu; Pengfei Liu; Xuanjing Huang*
-  - To do...
+  - 4 LSTM architectures(single layer, two layers, local context of a single LSTM layer, local context of second LSTM layer)
+  - Different context window lengths((2,2), (1,2), (0,2))
+  - Different dropout rates(0, 0.2, 0.5)
   
 - [**Semi-supervised Chinese Word Segmentation based on Bilingual Information**](http://www.aclweb.org/anthology/D/D15/D15-1142.pdf) [[bib]](http://www.aclweb.org/anthology/D/D15/D15-1142.bib)  
   *Wei Chen; Bo Xu*
