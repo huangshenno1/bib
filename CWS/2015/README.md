@@ -10,12 +10,13 @@
   
 - [**Semi-supervised Chinese Word Segmentation based on Bilingual Information**](http://www.aclweb.org/anthology/D/D15/D15-1142.pdf) [[bib]](http://www.aclweb.org/anthology/D/D15/D15-1142.bib)  
   *Wei Chen; Bo Xu*
-  - To do...
+  #TODO
 
 - [**A Transition-based Model for Joint Segmentation , POS-tagging and Normalization**](http://www.aclweb.org/anthology/D/D15/D15-1211.pdf) [[bib]](http://www.aclweb.org/anthology/D/D15/D15-1211.bib)  
   *Tao Qian; Yue Zhang; Meishan Zhang; Yafeng Ren; Donghong Ji*
   - Text normalization
     - Transition-based segmentation(perceptron-based)
+    - Language model features
   - Construction of normalization dictionary
     - Bootstrapping algorithm
     - Word-formation patterns
